@@ -603,9 +603,6 @@ pre code {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
-  flex-direction: row;
-  justify-content: space-evenly;
-  align-items: stretch;
 }
 
 .no-gutters {
