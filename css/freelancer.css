@@ -489,6 +489,7 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  border: 0.125rem solid #2c3e50;
 }
 
 .img-thumbnail {
